@@ -8,6 +8,6 @@ def main():
     for i in range(1, n):
         print(word)
 
-# fixing the issue
+# try branch
 if __name__ == "__main__":
     main()
